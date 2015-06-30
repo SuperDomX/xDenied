@@ -7,7 +7,6 @@
  * @version v0.11.06.12 
  * @icon Signal stop.png
  * @mini ban
- * @see navigate
  * @link 
  * @todo
  */
