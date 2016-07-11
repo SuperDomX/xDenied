@@ -1,10 +1,9 @@
 <?php 
 /**
- * 
- * @author XtIV
  * @name Denied 
  * @desc Provides a simple method for displaying unauthroized pages
- * @version v0.11.06.12 
+ * @version v0.1(160710)
+ * @author  @xopherdeep
  * @icon Signal stop.png
  * @mini ban
  * @link 
